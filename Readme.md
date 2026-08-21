@@ -85,5 +85,5 @@ Screenshots are stored in the `screenshots/` folder of this repo.
 The deployed site ("Trackr") is a small, original 2-page static site (HTML/CSS/
 vanilla JS, no frameworks or build tools) built only to have something realistic to
 deploy. It is not affiliated with, and does not reuse any code or assets from,
-Internee.pk's actual platform. Its own project details are in the `README` inside
+Internee.pk's actual platform. Its own project details are in the `Project Demo Guide` inside
 the site's files, if relevant.
