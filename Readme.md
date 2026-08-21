@@ -56,23 +56,29 @@ itself — the demo site exists only as something to deploy.**
 `AWS EC2` → `Ubuntu 24.04 LTS` → `Nginx` → `DuckDNS` → `Let's Encrypt (Certbot)` → `HTTPS`
 
 ## Screenshots
-Screenshots
 
-Screenshots are stored in the screenshots/ folder of this repo.
+Screenshots are stored in the `screenshots/` folder of this repo.
 
-Live site over HTTPS Show Image
+**Live site over HTTPS**
+![Live site over HTTPS](screenshots/site-https.png)
 
-Homepage Show Image
+**Homepage**
+![Homepage](screenshots/homepage.png)
 
-Programs page Show Image
+**Programs page**
+![Programs page](screenshots/programs-page.png)
 
-Certbot — SSL certificate issued Show Image
+**Certbot — SSL certificate issued**
+![Certbot success](screenshots/certbot-success.png)
 
-Nginx — active and running Show Image
+**Nginx — active and running**
+![Nginx status](screenshots/nginx-status.png)
 
-EC2 instance running with Elastic IP Show Image
+**EC2 instance running with Elastic IP**
+![EC2 instance](screenshots/ec2-instance.png)
 
-Security group inbound rules
+**Security group inbound rules**
+![Security group](screenshots/security-group.png)
 
 ## About the demo application
 
